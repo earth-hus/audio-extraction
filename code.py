@@ -267,4 +267,3 @@ If it does, it's labeled as silent (1); otherwise, it's labeled as non-silent (0
  distribution of your audio file.
 '''
 # How we built the model
-
